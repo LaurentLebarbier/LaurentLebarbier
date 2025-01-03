@@ -47,4 +47,4 @@ Système d'exploitation propriétaire, utilisé dans de nombreux environnements 
 
 ---
 
-Merci d’avoir visité mon profil ! 🚀 N’hésitez pas à explorer mon travail sur [mon site web](https://www.laurentlebarbier.fr) ou à m’écrire pour collaborer.
+Merci d’avoir visité mon profil ! 🚀 N’hésitez pas à explorer mon travail sur [mon site web](https://www.laurentlebarbier.fr) ou à m’écrire pour collaborer.# test
