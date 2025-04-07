@@ -19,25 +19,6 @@ Bienvenue sur mon portfolio GitHub ! Je suis un développeur web passionné avec
   - Git : Système de contrôle de version pour la gestion du code source.
   - GitHub : Plateforme d'hébergement de code pour la collaboration et le partage de projets.
 
-## Projets
-
-Voici quelques-uns de mes projets notables :
-
-1. **[Nom du Projet 1]**
-   - Description : Brève description du projet.
-   - Technologies utilisées : HTML, CSS, JavaScript, PHP, MySQL.
-   - [Lien vers le projet](#)
-
-2. **[Nom du Projet 2]**
-   - Description : Brève description du projet.
-   - Technologies utilisées : Symfony, MySQL, Git.
-   - [Lien vers le projet](#)
-
-3. **[Nom du Projet WordPress]**
-   - Description : Brève description du projet réalisé avec WordPress.
-   - Technologies utilisées : WordPress, PHP, MySQL.
-   - [Lien vers le projet](#)
-
 ## Comment Contribuer
 
 Si vous souhaitez contribuer à l'un de mes projets, n'hésitez pas à :
@@ -52,7 +33,6 @@ Si vous souhaitez contribuer à l'un de mes projets, n'hésitez pas à :
 
 Pour toute question ou collaboration, vous pouvez me contacter via :
 
-- Email : [votre-email@example.com](mailto:votre-email@example.com)
-- LinkedIn : [Votre Profil LinkedIn](#)
+- LinkedIn : [[Votre Profil LinkedIn](#)](https://www.linkedin.com/in/lebarbier-laurent/)
 
 Merci de visiter mon portfolio ! N'hésitez pas à explorer mes projets et à laisser des commentaires.
