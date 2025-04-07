@@ -33,6 +33,6 @@ Si vous souhaitez contribuer à l'un de mes projets, n'hésitez pas à :
 
 Pour toute question ou collaboration, vous pouvez me contacter via :
 
-- LinkedIn : [[Votre Profil LinkedIn](#)](https://www.linkedin.com/in/lebarbier-laurent/)
+- LinkedIn : https://www.linkedin.com/in/lebarbier-laurent/
 
 Merci de visiter mon portfolio ! N'hésitez pas à explorer mes projets et à laisser des commentaires.
